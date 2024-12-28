@@ -1,4 +1,4 @@
 # Demo
 My First git repository
 <br>
-Author Tahmid
+Author Tahmid Ahmed
